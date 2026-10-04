@@ -92,7 +92,6 @@ Understanding current division is important for circuit analysis and practical e
 ## Tools Used
 
 - Tinkercad Circuits
-- Multimeter
 - 9V DC supply
 - 1kΩ resistor
 - 2kΩ resistor
